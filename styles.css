@@ -1,0 +1,31 @@
+body{
+	background-color: #e5e5e5;
+	font-family: 'Roboto', sans-serif;
+}
+
+.content{
+	text-align: center;
+	padding: 80px;
+	line-height: 30px;
+
+}
+
+.custom-shape-divider-top-1604973148 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1604973148 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 99px;
+}
+
+.custom-shape-divider-top-1604973148 .shape-fill {
+    fill: #34FFF3;
+}
