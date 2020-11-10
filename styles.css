@@ -29,3 +29,24 @@ body{
 .custom-shape-divider-top-1604973148 .shape-fill {
     fill: #34FFF3;
 }
+
+.custom-shape-divider-bottom-1604973410 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1604973410 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 99px;
+}
+
+.custom-shape-divider-bottom-1604973410 .shape-fill {
+    fill: #FFEF00;
+}
